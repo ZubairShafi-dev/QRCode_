@@ -110,3 +110,4 @@ QR scan history
 
 Animated QR styles
 <!-- commit 1 -->
+<!-- commit 2 -->
